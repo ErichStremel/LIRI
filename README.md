@@ -13,3 +13,4 @@
 ### 4) Do what it says -  to use this command, enter (node liri.js do-what-it-says) into the command line to bring up the information specified within the random.txt file. You can edit this file to give you information from the 3 functions above this one. 
 
 ### For more image examples of how to utilize this application, view the images for each function in the LIRI Images file. 
+https://github.com/ErichStremel/LIRI/tree/master/LIRI%20Images
